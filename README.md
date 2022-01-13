@@ -1,8 +1,8 @@
 # 2021-Big-Contest
 2021 빅콘테스트 데이터분석 분야 챔피언리그 스포츠테크 부문
 
-### Sociable Data Analyst
-* Yonsei Graduate School Master´s Course (DataMining Lab)
+### Awards🏆
+* 과학기술정보통신부장관상 (대상)
 * Machine Learning, Deep Learning
 * Python, R, SAS, SQL
 
