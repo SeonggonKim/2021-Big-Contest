@@ -10,7 +10,7 @@
 ### Competition
 * 2021 빅콘테스트 데이터분석분야 챔피언리그 스포츠테크 부문
 * 「프로야구 배럴(Barrel)」을 통한 타자 성적 예측
-   * KBO에 적합한 좋은 타구(Barrel)을 새롭게 정의
+   ** KBO에 적합한 좋은 타구(Barrel)을 새롭게 정의
    * 정의한 Barrel을 바탕으로 타자의 OPS 예측 모형 개발
 
 ### Award 🏆
@@ -20,7 +20,6 @@
 * 팀명: 떨공삼
 * 팀장: 김성곤(석사 2학기)
 * 팀원: 서민석(석사 4학기), 박연재(석사 1학기), 정용휘(학사 4학년)
-
 
 ### Review
 * 대학원생 고니의 데이터 분석 https://data-miner-gon.tistory.com/category/Data%20Analysis/Competition?page=1
