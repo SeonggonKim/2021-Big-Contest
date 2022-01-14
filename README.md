@@ -23,4 +23,4 @@
 
 ### Review
 * 본선PT 후기 https://data-miner-gon.tistory.com/151?category=856007
-* 시상식 후기 https://data-miner-gon.tistory.com/category/Data%20Analysis/Competition?page=1
+* 시상식 후기 https://data-miner-gon.tistory.com/160?category=856007
