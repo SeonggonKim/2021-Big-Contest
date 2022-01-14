@@ -7,8 +7,6 @@
 제공받은 데이터는 대회 종료 후 파기하는 것이 원칙이므로 업로드하지 않습니다.   
 코드 또한 데이터 노출의 위험이 있어 최소한으로 업로드하는 점 양해 바랍니다.
 
-![image](https://user-images.githubusercontent.com/75540155/149508594-27f795bc-1670-4271-b3f3-0d4bb2993eb5.png)
-
 ### About Competition
 * 2021 빅콘테스트 데이터분석분야 챔피언리그 스포츠테크 부문
 * 「프로야구 배럴(Barrel)」을 통한 타자 성적 예측
@@ -26,3 +24,5 @@
 ### Review
 * 본선PT 후기 https://data-miner-gon.tistory.com/151?category=856007
 * 시상식 후기 https://data-miner-gon.tistory.com/160?category=856007
+
+![image](https://user-images.githubusercontent.com/75540155/149508594-27f795bc-1670-4271-b3f3-0d4bb2993eb5.png)
