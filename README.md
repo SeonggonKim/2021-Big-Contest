@@ -26,3 +26,4 @@
 * 시상식 후기 https://data-miner-gon.tistory.com/160?category=856007
 
 ![image](https://user-images.githubusercontent.com/75540155/149508594-27f795bc-1670-4271-b3f3-0d4bb2993eb5.png)
+<img src="https://user-images.githubusercontent.com/75540155/149508594-27f795bc-1670-4271-b3f3-0d4bb2993eb5.png" width="50" height="50"/>
