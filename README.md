@@ -22,4 +22,5 @@
 * 팀원: 서민석(석사 4학기), 박연재(석사 1학기), 정용휘(학사 4학년)
 
 ### Review
-* 대학원생 고니의 데이터 분석 https://data-miner-gon.tistory.com/category/Data%20Analysis/Competition?page=1
+* 본선PT 후기 https://data-miner-gon.tistory.com/151?category=856007
+* 시상식 후기 https://data-miner-gon.tistory.com/category/Data%20Analysis/Competition?page=1
